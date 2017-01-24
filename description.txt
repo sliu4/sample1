@@ -1,0 +1,8 @@
+About the project:
+
+This code was taken from one of my assignments in my Databases and Web Interfaces classes at Wellesley. 
+A user can search a database (hosted on MySQL) to find more information about a specific movie or actor. 
+The database used for this project is meant to mimic that of the well known IMDb, though it doesn't have 
+nearly as many movies and actors in it as it was made to service our class and this assignment. The code 
+is mainly written in PHP, with some SQL queries as well as HTML for formatting the front-end. 
+To see (and play around with) the web interface, please go to cs.wellesley.edu/~sliu4/cs304/wmdb-search.php .   
